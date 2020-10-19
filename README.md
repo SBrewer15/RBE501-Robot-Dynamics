@@ -1,3 +1,3 @@
 # RBE501-Robot-Dynamics
 RBE501 Robot Dynamics
-Quadrotor Dynamics
+Dynamics of a Quadrotor 
